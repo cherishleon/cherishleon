@@ -17,7 +17,7 @@
 - 👯 The period one spends in university is only a fleeting moment, so one should enjoy every moment of it to the fullest.
 - 📧 How to reach me: cherishleon01@gmail.com
 - 😄 Pronouns: positive, nice, friendly.
-- If you want to know more about me,  feel free to browse my [Homepage](https://github.com/cherishleon.io)
+- If you want to know more about me,  feel free to browse my [Homepage](https://cherishleon.github.io/)
 
 ### On Github
 <!-- ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) -->
@@ -39,4 +39,4 @@
   Challenge:""
 ```
 ---
-⭐️ From [@ Leo Chen](https://cherishleon.github.io/)
+⭐️ From [@ Leo Chen](https://github.com/cherishleon)
