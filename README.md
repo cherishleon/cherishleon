@@ -39,4 +39,4 @@
   Challenge:""
 ```
 ---
-⭐️ From [@ Leo Chen](https://cherishleon.github.io/)
+⭐️ From [@ Leo Chen]()
